@@ -1,5 +1,2 @@
 # hello_world
-
-branch
-
-Italy 2016 euro champion!
+My first GitHub repository
